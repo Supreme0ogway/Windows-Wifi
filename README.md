@@ -1,6 +1,8 @@
 # Windows-Wifi
 Run this to get into any wifi network with windows
 
+FOR EDUCATIONAL PURPOSES ONLY
+
 Instructions:
 Step 1: Import subprocess module
 Step 2: Run the firt cmd command using subprocess.check.output mehtod and store the profiles data in a variable
